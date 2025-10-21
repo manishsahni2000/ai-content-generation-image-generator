@@ -1,0 +1,8 @@
+{
+    "products": ["Murder Scene","Mango Shake"],
+    "target_region": "Australia",
+    "target_audience": "Young Adults",
+    "campaign_message": "ADOBE ENERGY !!",
+    "text_to_replace": "SHAKE",
+    "prompt_template": "A marketing image of {product} targeted at {target_audience} in {target_region}'."
+}
